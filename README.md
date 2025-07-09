@@ -19,5 +19,6 @@
   <h2>Zanzibar gem</h2>
   <p>The Zanziber gem with its glossy green foliage is a low maintenance indoor plant perfect for beginners</p>
   <p> Price: $20</p>
+ 
   <img src="https://edube.org/uploads/media/default/0001/04/zamiocucas-zanzibar-gem.jpg">
    
